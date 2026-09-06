@@ -3,6 +3,8 @@
 
 &nbsp;
 
+            `Matching token transfer found: ${toToken} (${toAmount.toString()}) in txEvent.to matches ${fromToken} (${fromAmount.toString()}) in txEvent.from`
+
 [![Github Actions][gha-badge]][gha-url] [![Telegram Chat][tg-badge]][tg-url] [![Telegram Support][tg-support-badge]][tg-support-url]
 
 [gha-badge]: https://img.shields.io/github/actions/workflow/status/foundry-rs/foundry/test.yml?branch=master&style=flat-square
